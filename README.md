@@ -2,7 +2,6 @@
 
 Welcome to my **Data Analysis Projects** repository! 🚀 This is a collection of various data analysis projects I’ve worked on, covering a range of datasets, techniques, and insights. Each project includes the necessary files, such as Jupyter notebooks, data files, and visualizations.
 
----
 
 ## 🔥 **Projects Included**
 
