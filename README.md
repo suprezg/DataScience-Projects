@@ -15,13 +15,11 @@ Welcome to my **Data Analysis Projects** repository! 🚀 This is a collection o
     - Business recommendations.
 - 📁 Location: `Quantium Job Sim/`
 
----
 
 ## 💡 **Technologies Used**
 - Python 🐍 (Pandas, NumPy, Matplotlib, Seaborn)
 - Jupyter Notebooks
 
----
 
 ## 🚀 **How to Use**
 1. Clone the repo:
@@ -32,14 +30,12 @@ git clone https://github.com/suprezg/DataAnalysisProjects
 4. Open the Jupyter notebook or relevant file.
 5. Run the analysis or explore the visualizations.
 
----
 
 ## 📈 **Future Plans**
 - 📊 Add more data analysis projects.
 - 📚 Improve documentation and explanations.
 - 🔍 Include interactive visualizations.
 
----
 
 ## 🤝 **Contributing**
 Feel free to fork this repository and contribute by adding new projects or improving existing ones. 
