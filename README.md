@@ -35,7 +35,3 @@ git clone https://github.com/suprezg/DataAnalysisProjects
 - 📊 Add more data analysis projects.
 - 📚 Improve documentation and explanations.
 - 🔍 Include interactive visualizations.
-
-
-## 🤝 **Contributing**
-Feel free to fork this repository and contribute by adding new projects or improving existing ones. 
