@@ -1,6 +1,6 @@
-# 📊 **Data Analysis Projects**
+# 📊 **Data Science Projects**
 
-Welcome to my **Data Analysis Projects** repository! 🚀 This is a collection of various data analysis projects I’ve worked on, covering a range of datasets, techniques, and insights. Each project includes the necessary files, such as Jupyter notebooks, data files, and visualizations.
+Welcome to my **Data Science Projects** repository! 🚀 This is a collection of various Data Science projects I’ve worked on, covering a range of datasets, techniques, and insights. Each project includes the necessary files, such as Jupyter notebooks, data files, and visualizations.
 
 
 ## 🔥 **Projects Included**
@@ -10,7 +10,7 @@ Welcome to my **Data Analysis Projects** repository! 🚀 This is a collection o
 - **Tech Stack:** Python, Pandas, Matplotlib, Seaborn.
 - **Key Tasks:** 
     - Data cleaning and wrangling.
-    - Exploratory Data Analysis (EDA).
+    - Exploratory Data Science (EDA).
     - Visualization of key metrics.
     - Business recommendations.
 - 📁 Location: `Quantium Job Sim/`
@@ -32,6 +32,6 @@ git clone https://github.com/suprezg/DataAnalysisProjects
 
 
 ## 📈 **Future Plans**
-- 📊 Add more data analysis projects.
+- 📊 Add more Data Science projects.
 - 📚 Improve documentation and explanations.
 - 🔍 Include interactive visualizations.
